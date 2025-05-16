@@ -1,0 +1,257 @@
+image_path,latex
+Images_Matrices_Train_2014/7_em_43.png,$\begin{vmatrix}2  &1  &0  &0  \\1  &3  &2  &0  \\0  &-1 &-2 &1  \\0  &0  &-2 &1\end{vmatrix}$
+Images_Matrices_Train_2014/103_em_72.png,$N_0=\begin{pmatrix}0  &0  \\1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/15_gt_2.png,$ A \begin {pmatrix} 1 & 3 \\ 2 & 4 \end {pmatrix} = \begin {pmatrix} 1 & 0 \\ 0 & 1 \end {pmatrix} $
+Images_Matrices_Train_2014/6_em_3.png,$\begin{pmatrix}2  &1  &1    &3  \\0  &1  &-2   &-7 \\0  &0  &19   &70\end{pmatrix}$
+Images_Matrices_Train_2014/40_gt_2.png,$ \begin {pmatrix} 0 & 1 & 0 \\ 0 & 0 & 1 \\ 4 & - 17 & 8 \end {pmatrix} $
+Images_Matrices_Train_2014/20_gt_1.png,$ \begin {bmatrix} - 2 + 0 & - 4 + 0 \\ 3 + 6 & G + (- 2) \end {bmatrix} $
+Images_Matrices_Train_2014/6_em_10.png,"$ \left[ \begin{matrix}a_{1,1} p_1 + a_{1,2} p_2 + a_{1,3} p_3 + t_1 \\a_{2,1} p_1 + a_{2,2} p_2 + a_{2,3} p_3 + t_2 \\a_{3,1} p_1 + a_{3,2} p_2 + a_{3,3} p_3 + t_3 \\1 \end{matrix} \right]$"
+Images_Matrices_Train_2014/11_em_92.png,$\begin{pmatrix}-1  &0  &0  &0  &0  \\0  &-1 &0  &0  &0  \\0  &0  &3  &0  &0  \\0  &0  &1  &3  &0  \\0  &0  &0  &0  &3\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_40.png,$ \begin{pmatrix}2  &1  \\0  &3\end{pmatrix}+\begin{pmatrix}2  &1  \\0  &3\end{pmatrix} $
+Images_Matrices_Train_2014/10_em_60.png,$(T-1I)(T-2I)^2=\begin{pmatrix}0  &0  &0  &0  \\1  &0  &0  &1  \\0  &0  &0  &0  \\0  &0  &0  &0\end{pmatrix}\begin{pmatrix}0  &0  &0  &1  \\1  &0  &0  &2  \\0  &0  &0  &-1 \\0  &0  &0  &-1\end{pmatrix}=\begin{pmatrix}0  &0  &0  &0  \\0  &0  &0  &0  \\0  &0  &0  &0  \\0  &0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_76.png,"$\begin{pmatrix}1  &0  &2  \\3  &-1 &1  \\5  &-1 &5\end{pmatrix},\begin{pmatrix}1  &0  &2  \\0  &2  &10 \\2  &0  &4\end{pmatrix} $"
+Images_Matrices_Train_2014/103_em_56.png,$\begin{pmatrix}5   &-4 \\9   &-7\end{pmatrix} $
+Images_Matrices_Train_2014/104_em_83.png,$ \begin{pmatrix}2  &1  \\1  &1\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_38.png,$\begin{pmatrix}1  &1  &4  \\3  &0  &-1 \\5  &2  &7\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_89.png,$\begin{bmatrix}1 & 1 & 1 \\\alpha_1^2 & \alpha_2^2 & \alpha_3^2 \\\alpha_1^3 & \alpha_2^3 & \alpha_3^3 \\\end{bmatrix}$
+Images_Matrices_Train_2014/104_em_81.png,$\begin{pmatrix}1  &0  &4  \\2  &1  &5\end{pmatrix}  $
+Images_Matrices_Train_2014/101_em_19.png,$ \begin{pmatrix}2  &0  \\-1  &3\end{pmatrix} $
+Images_Matrices_Train_2014/103_em_54.png,$\begin{pmatrix}0  &0  &0  &0  \\1  &0  &0  &0  \\0  &0  &0  &0  \\0  &0  &1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_69.png,$\begin{pmatrix}1  &-2 \\0  &-2 \\1  &-1 \\4  &3\end{pmatrix}\begin{pmatrix}1  &0  \\0  &1  \\\end{pmatrix}=\begin{pmatrix}1  &-2 \\0  &-2 \\1  &-1 \\4  &3\end{pmatrix}$
+Images_Matrices_Train_2014/45_gt_4.png,$ \begin {pmatrix} 3 & 0 \\ 8 & - 1 \end {pmatrix} $
+Images_Matrices_Train_2014/102_em_42.png,$\begin{pmatrix}1\\2\end{pmatrix}\begin{pmatrix}1&2\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_24.png,$C =\begin{pmatrix}1&2\\4&5\\\end{pmatrix}\begin{pmatrix}1&0\\0&1\\\end{pmatrix}=\begin{pmatrix}1&2\\4&5\\\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_62.png,$\begin{vmatrix}\alpha - E &  \beta  & 0 & 0  \\\beta & \alpha -E & \beta  &  0  \\0 & \beta & \alpha -E & \beta    \\0 & 0 & \beta & \alpha -E    \\\end{vmatrix}= 0$
+Images_Matrices_Train_2014/10_gt_4.png,$ \begin {pmatrix} 1 & 5 \\ 0 & 4 \end {pmatrix} $
+Images_Matrices_Train_2014/104_em_98.png,$ \begin{pmatrix}2  &-3 \\1  &1\end{pmatrix}  $
+Images_Matrices_Train_2014/15_gt_0.png,$ \begin {pmatrix} 1 / \sqrt {3} & - 1 / \sqrt {3} \\ - 1 / \sqrt {3} & - 1 / \sqrt {3} \end {pmatrix} $
+Images_Matrices_Train_2014/6_em_12.png,$\begin{pmatrix}5  &4  \\0  &1\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_90.png,$\begin{pmatrix}0  &0  &0  \\0  &0  &0  \\0  &0  &0\end{pmatrix}  $
+Images_Matrices_Train_2014/20_gt_3.png,$ \begin {pmatrix} 2 & 2 & 1 \\ 0 & 5 & - 1 \end {pmatrix} $
+Images_Matrices_Train_2014/7_em_39.png,$\begin{pmatrix}1/\sqrt{3} &-\sqrt{2}/\sqrt{3}  \\-\sqrt{2}/\sqrt{3} &-1/\sqrt{3}\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_1.png,$ \begin{pmatrix}1  &0  &0  &0  \\0  &1  &0  &0  \\0  &0  &1  &0\end{pmatrix} $
+Images_Matrices_Train_2014/40_gt_0.png,$ \begin {pmatrix} 0 & 1 & 0 & 2 \\ 1 & 1 & 0 & 4 \\ 3 & 3 & 3 & - 1 \end {pmatrix} $
+Images_Matrices_Train_2014/7_em_41.png,$I=\begin{pmatrix}1  &0  \\0  &1\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_70.png,$ \begin{vmatrix}2  &-1  \\-1 &-1\end{vmatrix}  $
+Images_Matrices_Train_2014/6_em_5.png,$ \begin{pmatrix}2  &1  \\3  &1\end{pmatrix}  $
+Images_Matrices_Train_2014/40_gt_4.png,$ \begin {pmatrix} 3 & 0 & 0 \\ 1 & 3 & 0 \\ 0 & 1 & 3 \end {pmatrix} $
+Images_Matrices_Train_2014/6_em_16.png,"$\begin{pmatrix}1  &1  &1  \\-1  &2  &2\end{pmatrix},\begin{pmatrix}0  &3  &-1 \\2  &2  &5\end{pmatrix} $"
+Images_Matrices_Train_2014/11_em_94.png,$ \begin{pmatrix}4  &0  \\0  &5\end{pmatrix} $
+Images_Matrices_Train_2014/15_gt_4.png,$ \begin {pmatrix} 1 & 1 \\ 2 & 4 \end {pmatrix} $
+Images_Matrices_Train_2014/102_em_27.png,$ \begin{pmatrix}-1 &4  &0  &0  &0  \\0 &3  &0  &0  &0  \\0 &-4 &-1 &0  &0  \\3 &-9 &-4 &2  &-1 \\1 &5  &4  &1  &4\end{pmatrix} $
+Images_Matrices_Train_2014/103_em_74.png,$\begin{pmatrix}1  &3  &0  \\0  &1  &0  \\1  &0  &1\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_45.png,$ A = \begin{pmatrix}3&5\\5&3\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_78.png,$A = \begin{bmatrix}-\frac{1}{t_1} & -\frac{1}{t_1} & 0 & 0\\\frac{1}{t_2} & 0 & -\frac{1}{t_2} & 0\\0 & \frac{1}{t_3} & 0 & -\frac{1}{t_3}\\0 & 0 & \frac{1}{t_4} & -\frac{1}{t_4}\end{bmatrix}$
+Images_Matrices_Train_2014/103_em_50.png,$\begin{pmatrix}0  &0  &0  \\1  &0  &0  \\0  &1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_85.png,$\begin{pmatrix}5   &4    &3  \\-1   &0    &-3 \\1   &-2   &1\end{pmatrix} $
+Images_Matrices_Train_2014/101_em_8.png,$\begin{pmatrix}-1  &0  \\0  &-1\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_66.png,$\begin{pmatrix}2  &-7 \\7  &4\end{pmatrix}\begin{pmatrix}1  &0  &5   \\-1  &1  &1   \\3  &8  &4\end{pmatrix}   $
+Images_Matrices_Train_2014/10_gt_0.png,$ \begin {pmatrix} 1 & 0 \\ 0 & 1 \end {pmatrix} $
+Images_Matrices_Train_2014/45_gt_0.png,$ \begin {pmatrix} 3 & 64 \\ 1 & 32 \end {pmatrix} \begin {pmatrix} 1 & - 2 \\ - 1 & 3 \end {pmatrix} $
+Images_Matrices_Train_2014/102_em_46.png,$\begin{pmatrix}1&1\\0&1\\\end{pmatrix}\begin{pmatrix}1&1\\0&1\\\end{pmatrix}\begin{pmatrix}1&1\\0&1\\\end{pmatrix}\begin{pmatrix}1\\1\\\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_20.png,$\begin{pmatrix}2    &1   &0  \\3    &-2  &0 \\1    &0   &0\end{pmatrix}    $
+Images_Matrices_Train_2014/25_gt_3.png,$ \begin {pmatrix} 3 & 4 \\ 1 & 2 \end {pmatrix} \begin {pmatrix} 1 & - 2 \\ - 1 & 3 \end {pmatrix} $
+Images_Matrices_Train_2014/10_gt_2.png,$ \begin {pmatrix} 0 & 0 \\ 0 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/10_em_64.png,$\begin{pmatrix}1  &0  &1 &0 \\0  &2  &1 &0 \\1  &1  &1 &0 \\0  &0  &0 &1\end{pmatrix}^{-1}$
+Images_Matrices_Train_2014/25_gt_1.png,$ \begin {pmatrix} - 1 & 0 & 0 & 0 \\ 0 & 2 & 0 & 0 \\ 0 & 1 & 2 & 0 \\ 0 & 0 & 0 & 2 \end {pmatrix} $
+Images_Matrices_Train_2014/101_em_22.png,$A =\begin{pmatrix}-4&15\\-2&7\end{pmatrix}$
+Images_Matrices_Train_2014/45_gt_2.png,$ \begin {pmatrix} 0 \\ 1 \\ 0 \end {pmatrix} = \begin {pmatrix} sin (\theta) \\ cos (\theta) \\ 0 \end {pmatrix} $
+Images_Matrices_Train_2014/102_em_44.png,$\begin{vmatrix}2  &1  \\3  &1\end{vmatrix}=\begin{vmatrix}2  &0  \\0  &1\end{vmatrix} +\begin{vmatrix}0  &1  \\3  &0\end{vmatrix}             =(2)(1)\begin{vmatrix}1  &0  \\0  &1\end{vmatrix} +(1)(3)\begin{vmatrix}0  &1  \\1  &0\end{vmatrix}             =-1$
+Images_Matrices_Train_2014/104_em_87.png,$\begin{pmatrix}x\\y\end{pmatrix}= \begin{pmatrix}t\\t\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_52.png,$ \begin{pmatrix}2  &0  &1  \\0  &6  &2  \\0  &0  &2\end{pmatrix} $
+Images_Matrices_Train_2014/10_em_59.png,$ \begin{pmatrix}2  &1  &1  \\0  &5  &-2 \\1  &-3 &4\end{pmatrix} $
+Images_Matrices_Train_2014/7_em_26.png,$ \begin{vmatrix}3  &1  &2  \\3  &1  &0  \\0  &1  &4\end{vmatrix} $
+Images_Matrices_Train_2014/7_em_47.png,$\begin{pmatrix}5  &0  &0  &0  \\0  &2  &0  &0  \\0  &1  &2  &0  \\0  &0  &0  &3\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_14.png,$\begin{pmatrix}1+2&2+9&3+8\\4+0&5+(-1)&6+8\\7+4&8+6&9+7\\\end{pmatrix}=\begin{pmatrix}3&11&11\\4&4&14\\11&14&16\\\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_96.png,$\begin{pmatrix}0  &-1 \\-5  &1\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_7.png,$\begin{pmatrix}1  &1  \\1  &-1\end{pmatrix}^{-1}\begin{pmatrix}0  &1  \\1  &0\end{pmatrix}\begin{pmatrix}1   &1  \\-1  &1\end{pmatrix}=\begin{pmatrix}-1  &0  \\0   &1\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_25.png,$ \begin{pmatrix}2  &3  &4  \\5  &6  &7  \\8  &9  &1\end{pmatrix} $
+Images_Matrices_Train_2014/10_em_63.png,$T-xI=\begin{pmatrix}3-x  &0    &0   \\1    &3-x  &0   \\0    &0    &4-x\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_68.png,$ \begin{pmatrix}0  &3  \\7 &0\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_43.png,$x = \begin{pmatrix}3\\1\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_80.png,$\begin{pmatrix}0  &4  &0  \\2  &0  &0  \\0  &0  &-5\end{pmatrix}=\begin{pmatrix}0  &1  &0  \\1  &0  &0  \\0  &0  &1\end{pmatrix}\begin{pmatrix}4  &0  &0  \\0  &2  &0  \\0  &0  &-5\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_18.png,$A^{n-1} =\begin{pmatrix}2&3\\1&1\end{pmatrix}\begin{pmatrix}2^{n-1}&0\\0&3^{n-1}\end{pmatrix}\begin{pmatrix}-1&3\\1&-2\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_55.png,$\begin{pmatrix}2  &3  \\4  &-1\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_88.png,"$ \{\begin{pmatrix}1  &0  \\1  &1\end{pmatrix},\begin{pmatrix}2  &0  \\2  &3\end{pmatrix}  \} $"
+Images_Matrices_Train_2014/11_em_75.png,$ \begin{pmatrix}1  &-1 &1/2  \\1  &1  &-1/2 \\0  &2  &0\end{pmatrix} $
+Images_Matrices_Train_2014/103_em_71.png,$ A=\begin{pmatrix}1  &2  \\2  &3\end{pmatrix} $
+Images_Matrices_Train_2014/7_em_40.png,$\begin{pmatrix}-1  &0  &0  &0  &0  \\0  &2  &0  &0  &0  \\0  &1  &2  &0  &0  \\0  &0  &0  &2  &0  \\0  &0  &0  &1  &2\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_91.png,$ \begin{pmatrix}1  &1  \\0  &0\end{pmatrix}  $
+Images_Matrices_Train_2014/6_em_13.png,$\begin{pmatrix}3&2\\1&1\\\end{pmatrix}\begin{pmatrix}1&0\\0&32\\\end{pmatrix}\begin{pmatrix}1&-2\\-1&3\\\end{pmatrix} $
+Images_Matrices_Train_2014/20_gt_2.png,$ \begin {pmatrix} 20 \\ - 6 \\ - 13 \end {pmatrix} $
+Images_Matrices_Train_2014/7_em_38.png,$ A = \begin{pmatrix}10&2\\2&7\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_0.png,$\begin{pmatrix}-3  &1  \\-4  &2\end{pmatrix}$
+Images_Matrices_Train_2014/40_gt_1.png,$ \begin {pmatrix} 1 & 0 \\ 0 & - 1 \end {pmatrix} = P \begin {pmatrix} - 1 & 0 \\ 0 & 1 \end {pmatrix} P ^ {- 1} $
+Images_Matrices_Train_2014/104_em_99.png,$\begin{pmatrix}1\\1\end{pmatrix}$
+Images_Matrices_Train_2014/15_gt_1.png,$ \begin {pmatrix} 0 & 1 \\ 1 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/6_em_2.png,$P^{-1}\begin{pmatrix}1&0\\0&2^{100}\\\end{pmatrix}P $
+Images_Matrices_Train_2014/40_gt_3.png,$ (T - 1 I) ^ {3} = \begin {pmatrix} 0 & 0 & 0 & 6 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/20_gt_0.png,$ \begin {bmatrix} 1 & 3 & 4 \\ 6 & 3 & 2 \end {bmatrix} $
+Images_Matrices_Train_2014/11_em_93.png,$ \begin{vmatrix}0  &1  &4  \\0  &2  &3  \\1  &5  &1\end{vmatrix}  $
+Images_Matrices_Train_2014/6_em_11.png,$\begin{pmatrix}2  &0  &3  &4  \\0  &1  &1  &-1 \\3  &1  &0  &2  \\1  &0  &-4 &-1\end{pmatrix}$
+Images_Matrices_Train_2014/15_gt_3.png,$ \begin {pmatrix} 3 & 1 \\ 2 & 8 \end {pmatrix} \begin {pmatrix} 3 \\ 2 \end {pmatrix} $
+Images_Matrices_Train_2014/103_em_73.png,$B = \begin{pmatrix}-8&6\\-15&11\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_42.png,$(T-3I)^2=\begin{pmatrix}0  &0  &0  \\1  &0  &0  \\0  &0  &0\end{pmatrix}\begin{pmatrix}0  &0  &0  \\1  &0  &0  \\0  &0  &0\end{pmatrix}=\begin{pmatrix}0  &0  &0  \\0  &0  &0  \\0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_57.png,$A=\begin{pmatrix}0  &1  \\1  &0  \\0  &-1\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_82.png,$\begin{pmatrix}3  &0  \\0  &1\end{pmatrix}=\begin{pmatrix}1  &1  \\0  &-1\end{pmatrix}^{-1}\begin{pmatrix}3  &2  \\0  &1\end{pmatrix}\begin{pmatrix}1  &1  \\0  &-1\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_39.png,$\begin{bmatrix}-1\\0\\1\end{bmatrix}$
+Images_Matrices_Train_2014/11_em_77.png,$A=\begin{pmatrix}2  &3  \\4  &6\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_61.png,$\begin{pmatrix}2  &3  &4  &5  \\3  &4  &5  &6  \\4  &5  &6  &7  \\5  &6  &7  &8\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_41.png,$\begin{pmatrix}1&1\\0&1\\\end{pmatrix}\begin{pmatrix}1&1\\0&1\\\end{pmatrix}\begin{pmatrix}2\\1\\\end{pmatrix} $
+Images_Matrices_Train_2014/25_gt_4.png,$ \begin {pmatrix} 1 & 2 \\ 3 & 6 \end {pmatrix} $
+Images_Matrices_Train_2014/10_em_58.png,$\begin{bmatrix}x_1 \\x_2 \end{bmatrix}$
+Images_Matrices_Train_2014/7_em_27.png,$\begin{pmatrix}0\\2\\-1\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_86.png,$ \begin{pmatrix}1  &2  &3  \\4  &5  &6\end{pmatrix}  $
+Images_Matrices_Train_2014/103_em_53.png,$\begin{pmatrix}1  &2  &1  \\1  &3  &1\end{pmatrix}   $
+Images_Matrices_Train_2014/25_gt_0.png,$ x = \begin {pmatrix} 2 \\ 1 \end {pmatrix} $
+Images_Matrices_Train_2014/101_em_23.png,$\left|T-xI\right|=\begin{vmatrix}-x &1  &0  &0  \\0  &-x &2  &0  \\0  &0  &-x &3  \\0  &0  &0  &-x\end{vmatrix}=x^4$
+Images_Matrices_Train_2014/102_em_45.png,$\begin{bmatrix}3.569953 & 0        & 0        & 0\\0        & 2.000000 & 0        & 0\\0        & 0        & 1.120463 & 0\end{bmatrix}$
+Images_Matrices_Train_2014/45_gt_3.png,$ T = \begin {pmatrix} 2 & - 1 \\ 1 & 4 \end {pmatrix} $
+Images_Matrices_Train_2014/10_gt_3.png,"$ \begin {pmatrix} 1 & 1 & 1 \\ 0 & 0 & 3 \end {pmatrix}, \begin {pmatrix} 0 & 1 & 2 \\ - 1 & - 1 & 1 \end {pmatrix} $"
+Images_Matrices_Train_2014/10_em_65.png,"$\begin{pmatrix}1  &0  \\0  &0\end{pmatrix},\begin{pmatrix}0  &1  \\0  &2\end{pmatrix} $"
+Images_Matrices_Train_2014/20_gt_4.png,$ \begin {bmatrix} 7 & 5 \\ 4 & - 2 \end {bmatrix} - \begin {bmatrix} - 1 & 2 \\ - 3 & 5 \end {bmatrix} = \begin {bmatrix} 8 & 3 \\ - 7 & 7 \end {bmatrix} $
+Images_Matrices_Train_2014/11_em_97.png,$\begin{pmatrix}x_n\\x_{n-1}\end{pmatrix}=\begin{pmatrix}-2^n+3^n\\-2^{n-1}+3^{n-1}\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_15.png,$P = \begin{bmatrix}1 & 1 & 2 & 2\\1 & 1 & 2 & 2\\3 & 3 & 4 & 4\\3 & 3 & 4 & 4\end{bmatrix}$
+Images_Matrices_Train_2014/6_em_6.png,$ \begin{pmatrix}1  &2  \\2  &1\end{pmatrix}  $
+Images_Matrices_Train_2014/7_em_46.png,$ \begin{pmatrix}10  &-9 \\4  &-2\end{pmatrix}  $
+Images_Matrices_Train_2014/7_em_44.png,$\begin{bmatrix}\cos (\gamma) & \sin (\gamma) & 0 \\-\sin (\gamma) & \cos (\gamma) & 0 \\0 & 0 & 1 \\\end{bmatrix}$
+Images_Matrices_Train_2014/102_em_26.png,$ \begin{pmatrix}1  &-1 \\1  &1\end{pmatrix}  $
+Images_Matrices_Train_2014/6_em_4.png,$T=\begin{pmatrix}1    &2    &1    \\2    &0    &-2   \\-1    &2    &3\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_95.png,$F_n=\begin{vmatrix}1  &-1  &1  &-1  &1  &-1  &\ldots  \\1  &1   &0  &1   &0  &1   &\ldots  \\0  &1   &1  &0   &1  &0   &\ldots  \\0  &0   &1  &1   &0  &1   &\ldots  \\.  &.   &.  &.   &.  &.   &\ldots\end{vmatrix}$
+Images_Matrices_Train_2014/6_em_17.png,$ \begin{pmatrix}1  &2  \\3  &4\end{pmatrix}\begin{pmatrix}1  &-1 \\0  &1\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_47.png,$A^{-1} = \frac{1}{-7}\begin{pmatrix}3&-5\\-2&1\end{pmatrix}$
+Images_Matrices_Train_2014/45_gt_1.png,"$ \begin {bmatrix} a _ {1, 1} p _ {1} + a _ {1 _ {}, 2} p _ {2} + a _ {l _ {}, 3} p _ {3} + t _ {1} \\ a _ {21} p _ {1} + a _ {2, 2} p _ {2} + a _ {2 _ {}, 3} p _ {3} + t _ {2} \\ a _ {3, 1} p _ {1} + a _ {3 _ {}, 2} p _ {2} + a _ {3 _ {}, 3} p _ {3} + t _ {3} \\ 1 \end {bmatrix} $"
+Images_Matrices_Train_2014/101_em_21.png,$P=\begin{pmatrix}1  &-2  \\1  &2\end{pmatrix}^{-1}=\begin{pmatrix}1/2  &1/2  \\-1/4 &1/4\end{pmatrix}$
+Images_Matrices_Train_2014/25_gt_2.png,$ \begin {pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/10_em_67.png,$\begin{vmatrix}2  &3  &4  \\3  &4  &5  \\4  &5  &6\end{vmatrix}=0$
+Images_Matrices_Train_2014/10_gt_1.png,$ \begin {pmatrix} 1 & 0 & 0 & 1 \\ 0 & 1 & 1 & 0 \\ 0 & 1 & 1 & 0 \\ - 1 & 0 & 0 & 1 \end {pmatrix} $
+Images_Matrices_Train_2014/101_em_9.png,$\begin{pmatrix}5  &10 \\10  &5\end{pmatrix}  $
+Images_Matrices_Train_2014/7_em_25.png,$\begin{pmatrix}2  &0  &0  \\1  &2  &0  \\0  &1  &2\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_51.png,$\begin{vmatrix}2  &1  \\1  &2\end{vmatrix}=3$
+Images_Matrices_Train_2014/104_em_79.png,$\begin{pmatrix}1  &2  \\3  &4\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_84.png,$\begin{pmatrix}2  &3  &6  \\1  &3  &8  \\-7  &1  &0\end{pmatrix}\begin{pmatrix}1  &0  &0  \\0  &1  &0  \\0  &0  &1\end{pmatrix}=\begin{pmatrix}2  &3  &6  \\1  &3  &8  \\-7  &1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_29.png,$\begin{pmatrix}x_n\\x_{n-1}\end{pmatrix}=\begin{pmatrix}2&1\\1&0\end{pmatrix}^{n-1}\begin{pmatrix}1\\1\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_5.png,$P = \begin{bmatrix}P_{11}  & P_{12} \\P_{21} &  P_{22} \end{bmatrix}$
+Images_Matrices_Train_2014/11_em_80.png,$M=\begin{pmatrix}1  &-1  \\1  &-1\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_56.png,$\begin{pmatrix}3&2\\1&1\\\end{pmatrix}\begin{pmatrix}1&0\\0&4\\\end{pmatrix}\begin{pmatrix}1&-2\\-1&3\\\end{pmatrix} $
+Images_Matrices_Train_2014/104_em_75.png,$\begin{pmatrix}-1 &  1  \\0 &  0\end{pmatrix}\begin{pmatrix}0&  0  \\0 & 1\end{pmatrix} $
+Images_Matrices_Train_2014/101_em_10.png,$\begin{pmatrix}-4 - 2 &15\\-2&7 - 2\end{pmatrix}x = 0$
+Images_Matrices_Train_2014/104_em_88.png,$\begin{bmatrix}a & b \\c & d \\\end{bmatrix}$
+Images_Matrices_Train_2014/102_em_33.png,$\begin{pmatrix}2  &2  \\4  &3\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_60.png,$\begin{pmatrix}5  &0  &0  &0  \\0  &2  &0  &0  \\0  &0  &2  &0  \\0  &0  &0  &3\end{pmatrix}$
+Images_Matrices_Train_2014/55_gt_2.png,$ \begin {pmatrix} 1 & 2 & 3 \\ 3 & 0 & 3 \\ 1 & 4 & 5 \end {pmatrix} $
+Images_Matrices_Train_2014/35_gt_1.png,$ \begin {pmatrix} 3 & 5 \\ 6 & 4 \end {pmatrix} $
+Images_Matrices_Train_2014/104_em_91.png,$\begin{pmatrix}-1  &2  &2  \\2  &2  &2  \\-3  &-6 &-6\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_8.png,$\begin{pmatrix}1  &1  &-1  \\4  &0  &3\end{pmatrix}\begin{pmatrix}2  &-1 &-1  \\3  &1  &1   \\3  &1  &1\end{pmatrix}   $
+Images_Matrices_Train_2014/7_em_30.png,$\begin{pmatrix}1  &0  &0  \\0  &1  &0  \\0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/60_gt_1.png,$ \begin {vmatrix} 1 & 2 & 3 \\ - 1 & - 2 & - 3 \\ 2 & 4 & 6 \end {vmatrix} $
+Images_Matrices_Train_2014/11_em_99.png,$\mathrm{A} \left[ \begin{matrix}p_1\\p_2\\p_3 \end{matrix} \right] + \left[ \begin{matrix}t_1\\t_2\\t_3 \end{matrix} \right] $
+Images_Matrices_Train_2014/10_em_72.png,$\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}4&-1\\2&1\end{pmatrix}\begin{pmatrix}x\\y\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_48.png,$A = \begin{pmatrix}1&2\\-1&4\end{pmatrix}$
+Images_Matrices_Train_2014/6_em_24.png,$ \begin{vmatrix}1  &0  &0  &1 \\2  &1  &1  &0 \\-1  &0  &1  &0 \\1  &1  &1  &0\end{vmatrix}=\begin{vmatrix}1  &0  &0  &1 \\0  &1  &1  &-2\\0  &0  &1  &1 \\0  &1  &1  &-1\end{vmatrix}=\begin{vmatrix}1  &0  &0  &1 \\0  &1  &1  &-2\\0  &0  &1  &1 \\0  &0  &0  &1\end{vmatrix}    $
+Images_Matrices_Train_2014/10_em_70.png,$\begin{pmatrix}-5&18\\-3&10\\\end{pmatrix}\begin{pmatrix}-5&18\\-3&10\\\end{pmatrix}\begin{pmatrix}-1&6\\-1&4\\\end{pmatrix} $
+Images_Matrices_Train_2014/104_em_93.png,$\begin{pmatrix}1  &3  &-1  &5  &0  &4  \\2  &0  &1   &0  &4  &1\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_28.png,$\begin{pmatrix}2  &-3  \\-4  &6\end{pmatrix}$
+Images_Matrices_Train_2014/35_gt_3.png,$ \begin {pmatrix} 8 & 11 & 14 & 21 \\ 4 & 24 & 14 & 20 \end {pmatrix} $
+Images_Matrices_Train_2014/55_gt_0.png,$ \begin {vmatrix} 2 & 1 \\ 5 & - 3 \end {vmatrix} $
+Images_Matrices_Train_2014/60_gt_3.png,$ A = \begin {pmatrix} 2 & 3 \\ 1 & 1 \end {pmatrix} \begin {pmatrix} 2 & 0 \\ 0 & 3 \end {pmatrix} \begin {pmatrix} 2 & 3 \\ 1 & 1 \end {pmatrix} ^ {- 1} $
+Images_Matrices_Train_2014/6_em_19.png,$\begin{pmatrix}5&-6\\0&2\end{pmatrix}\begin{pmatrix}2&6\\0&5\end{pmatrix} = \begin{pmatrix}10&0\\0&10\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_32.png,$\begin{pmatrix}1  &2  &0 \\3  &4  &0\end{pmatrix}\begin{pmatrix}5  &6  \\7  &8\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_62.png,$\begin{pmatrix}1 & 1  \\0 & 0\end{pmatrix}\begin{pmatrix}-2 & 0  \\1 & 0\end{pmatrix}\begin{pmatrix}0 & 0  \\0 & 1\end{pmatrix}   $
+Images_Matrices_Train_2014/102_em_49.png,$\begin{pmatrix}7   &1    &2   &2 \\1   &4    &-1  &-1\\-2   &1    &5   &-1\\1   &1    &2   &8\end{pmatrix} $
+Images_Matrices_Train_2014/10_em_69.png,$ \begin{pmatrix}1  &1  \\0  &-1\end{pmatrix}^{-1}\begin{pmatrix}1  &1  \\0  &0\end{pmatrix}\begin{pmatrix}1  &1  \\0  &-1\end{pmatrix}=\begin{pmatrix}1  &0  \\0  &0\end{pmatrix} $
+Images_Matrices_Train_2014/50_gt_4.png,$ A = \begin {pmatrix} 3 & 1 \\ 0 & 4 \end {pmatrix} $
+Images_Matrices_Train_2014/10_em_54.png,$\begin{pmatrix}0  &0  \\1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_82.png,$\begin{pmatrix}3  &0  \\1  &3\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_7.png,$T=\begin{pmatrix}4  &-2  \\1  &1\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_31.png,$\begin{pmatrix}1  &-1  \\0  &1\end{pmatrix}\begin{pmatrix}1  &-1  \\1  &-1\end{pmatrix}\begin{pmatrix}1  &1  \\0  &1\end{pmatrix}=\begin{pmatrix}0  &0  \\1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_12.png,$\begin{pmatrix}1  &1  \\-1  &1  \\3  &-1\end{pmatrix}  $
+Images_Matrices_Train_2014/104_em_77.png,$B = \begin{bmatrix}\frac{T}{t_1}\\0\\0\\0\end{bmatrix}$
+Images_Matrices_Train_2014/50_gt_0.png,$ \begin {vmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end {vmatrix} $
+Images_Matrices_Train_2014/103_em_66.png,$ \begin{pmatrix}0  &0  &0  &0  \\0  &0  &0  &0\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_35.png,"$\mathrm{M} = \left[ \begin{matrix}a_{1,1} & a_{1,2} & a_{1,3} & t_1 \\a_{2,1} & a_{2,2} & a_{2,3} & t_2 \\a_{3,1} & a_{3,2} & a_{3,3} & t_3 \\0 & 0 & 0 & 1 \end{matrix} \right]$"
+Images_Matrices_Train_2014/101_em_16.png,$\begin{vmatrix}1 & -1 & 2  \\2 & 1 & 1  \\3 & -1 & 1  \\\end{vmatrix}$
+Images_Matrices_Train_2014/101_em_3.png,$ \begin{pmatrix}2   &2  &3  \\1   &-2 &-3 \\4   &-2 &-3\end{pmatrix} $
+Images_Matrices_Train_2014/10_em_50.png,$\begin{vmatrix}0  &1  &4  \\0  &2  &3  \\1  &5  &1\end{vmatrix}=-\begin{vmatrix}1  &5  &1  \\0  &2  &3  \\0  &1  &4  \end{vmatrix}=-\begin{vmatrix}1  &5  &1  \\0  &2  &3  \\0  &0  &5/2  \end{vmatrix}=-5$
+Images_Matrices_Train_2014/11_em_86.png,$B_{1\times 3} \times A_{3\times 1}=\begin{pmatrix} 4 & 5 &6 \end{pmatrix}\times\begin{pmatrix}1\\2\\3\\\end{pmatrix}=(32)$
+Images_Matrices_Train_2014/6_em_20.png,$\begin{pmatrix}1/2  &-1/2  \\1/2  &-1/2\end{pmatrix}        $
+Images_Matrices_Train_2014/10_em_74.png,$\begin{pmatrix}\cos\theta  &\sin\theta &0 &0 \\-\sin\theta  &\cos\theta  &0 &0 \\0           &0           &1 &0 \\0           &0           &0 &1\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_36.png,$ \begin{pmatrix}2  &0  &3  \\4  &0  &6\end{pmatrix}  $
+Images_Matrices_Train_2014/5_gt_1.png,$ \begin {pmatrix} 2 & 1 & 3 \\ 1 & - 1 & 2 \\ 1 & 0 & 3 \end {pmatrix} $
+Images_Matrices_Train_2014/55_gt_4.png,$ A = \begin {pmatrix} 0 & 3 \\ - 3 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/104_em_97.png,$\begin{pmatrix}1\\2\end{pmatrix}\begin{pmatrix}1&2\end{pmatrix} = \begin{pmatrix}1 \times 1 & 1 \times 2 \\2 \times 1 & 2 \times 2 \\\end{pmatrix} = \begin{pmatrix}1 & 2 \\2 & 4 \\\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_34.png,$\begin{pmatrix}0  &0  &0  &0  \\1  &0  &0  &0  \\0  &1  &0  &0  \\0  &0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_95.png,$x = \begin{pmatrix}u\\v\end{pmatrix}$
+Images_Matrices_Train_2014/5_gt_3.png,$ \begin {bmatrix} \alpha ^ {2} _ {1} & \alpha ^ {2} _ {2} & \alpha ^ {2} _ {3} \\ \alpha ^ {3} _ {1} & \alpha ^ {3} _ {2} & \alpha ^ {3} _ {3} \\ \alpha ^ {4} _ {1} & \alpha ^ {4} _ {2} & \alpha ^ {4} _ {3} \end {bmatrix} $
+Images_Matrices_Train_2014/6_em_22.png,$ \begin{pmatrix}1   &1  &3  \\0   &2  &4  \\-1  &1  &0\end{pmatrix} $
+Images_Matrices_Train_2014/101_em_14.png,$ \begin{pmatrix}0  &1  \\1  &0\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_37.png,$\begin{pmatrix}0  &0  &1  \\0  &0  &0  \\0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_59.png,$\begin{pmatrix}1  &2  &1  \\3  &6  &0  \\1  &2  &2\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_84.png,$ (-1)^{4}\begin{vmatrix}-1  &1  \\0  &2\end{vmatrix}=-2  $
+Images_Matrices_Train_2014/10_em_52.png,$\begin{pmatrix}-2  &1  \\0  &2\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_79.png,$\begin{pmatrix}0  &0  \\0  &0 \end{pmatrix}                     $
+Images_Matrices_Train_2014/101_em_1.png,$  B=\begin{pmatrix}1  &2  \\0  &-1\end{pmatrix}  $
+Images_Matrices_Train_2014/50_gt_2.png,$ \begin {pmatrix} 5 & 0 & 0 \\ 0 & 2 & 0 \\ 0 & 0 & 3 \end {pmatrix} $
+Images_Matrices_Train_2014/103_em_64.png,$ \begin{pmatrix}3  &0  &0  \\1  &3  &0  \\0  &0  &4\end{pmatrix} $
+Images_Matrices_Train_2014/60_gt_2.png,$ \begin {vmatrix} 0 & 1 & 0 & 0 \\ 1 & 0 & 1 & 0 \\ 0 & 1 & 0 & 1 \\ 0 & 0 & 1 & 0 \end {vmatrix} $
+Images_Matrices_Train_2014/6_em_18.png,$\begin{pmatrix}3  &0  &0  &0  \\1  &3  &0  &0  \\0  &0  &3  &0  \\0  &0  &1  &3\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_33.png,$\begin{pmatrix}\cos\theta  &-\sin\theta  \\\sin\theta  &\cos\theta\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_92.png,$\begin{pmatrix}5  &2  \\3  &1\end{pmatrix}\begin{pmatrix}-1  &2   \\3  &-5\end{pmatrix} $
+Images_Matrices_Train_2014/102_em_29.png,"$\begin{bmatrix}\alpha_1^4 & \alpha_2^4 & \alpha_3^4 \\\end{bmatrix}\;\; = \;\; - b_1\,\begin{bmatrix}\alpha_1^2 & \alpha_2^2 & \alpha_3^2 \\\end{bmatrix}\; - \; b_0\,\begin{bmatrix}\alpha_1 & \alpha_2 & \alpha_3 \\\end{bmatrix}$"
+Images_Matrices_Train_2014/35_gt_2.png,$ \begin {pmatrix} 1 & 1 \\ - 2 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/5_gt_4.png,$ A + B = \begin {pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end {pmatrix} + \begin {pmatrix} 2 & 9 & 8 \\ 0 & - 1 & 8 \\ 4 & 6 & 7 \end {pmatrix} $
+Images_Matrices_Train_2014/55_gt_1.png,$ \begin {pmatrix} x \\ y \\ 1 \end {pmatrix} = T \begin {pmatrix} 0 \\ 0 \\ 1 \end {pmatrix} $
+Images_Matrices_Train_2014/10_em_71.png,$\begin{pmatrix}3  &0  &0  \\1  &3  &0  \\0  &1  &3  \\\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_30.png,$\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}1\\2\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_13.png,$ \begin{pmatrix}1  &1  \\0  &0\end{pmatrix} $
+Images_Matrices_Train_2014/104_em_76.png,$\begin{pmatrix}2   &-2   &2   \\0   &1    &1   \\-4   &8    &3\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_55.png,$A^{-1} = \frac{1}{-16}\begin{pmatrix}3&-5\\-5&3\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_83.png,$\begin{pmatrix}2  &3  &4  \\3  &4  &5  \\4  &5  &6\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_6.png,$P = \left[ \begin{matrix}p_1\\p_2\\p_3\\1 \end{matrix} \right]$
+Images_Matrices_Train_2014/10_em_68.png,$H =\begin{pmatrix}-3&-1&-1&1&0\\-4&-3&-1&0&1\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_63.png,$\begin{vmatrix}4  &1   \\2  &3\end{vmatrix}=10$
+Images_Matrices_Train_2014/102_em_48.png,$\begin{pmatrix}1  &3  &1  \\0  &-1 &2  \\1  &1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/103_em_61.png,$ \begin{pmatrix}1  &0  \\-2  &1\end{pmatrix}\begin{pmatrix}1  &2  \\3  &4\end{pmatrix} $
+Images_Matrices_Train_2014/101_em_11.png,$\begin{pmatrix}1  &3  \\2  &5\end{pmatrix}$
+Images_Matrices_Train_2014/104_em_89.png,$\begin{pmatrix}3&1\\2&8\\\end{pmatrix}\begin{pmatrix}1&1\\0&2\\\end{pmatrix}\begin{pmatrix}1&1\\0&1\\\end{pmatrix}\begin{pmatrix}1\\1\\\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_32.png,$N_3=\begin{pmatrix}0  &0  &0  &0  &0  \\1  &0  &0  &0  &0  \\0  &1  &0  &0  &0  \\0  &0  &1  &0  &0  \\0  &0  &0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_28.png,$ (-1)^{3+2}\begin{vmatrix}1  &2  \\-1  &3\end{vmatrix}=-5  $
+Images_Matrices_Train_2014/101_em_4.png,$\begin{pmatrix}1/6  &0   &0   &0   &0   &0  \\1/6  &2/6 &0  &0 &0 &0 \\1/6  &1/6 &3/6 &0 &0 &0 \\1/6  &1/6 &1/6 &4/6&0&0\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_81.png,$\begin{vmatrix}i & -1 \\1 & i\end{vmatrix} v_1 = 0$
+Images_Matrices_Train_2014/10_em_57.png,$\begin{pmatrix}-3  &2  &1  \\-3  &2  &1  \\-3  &2  &1\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_73.png,$\begin{pmatrix}1  &1  &1  \\0  &0  &1  \\0  &0  &1\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_49.png,$\begin{Vmatrix}y_1 & y_2 & \ldots & y_n \\y_1' & y_2' & \ldots & y_n' \\y_1'' & y_2'' & \ldots & y_n'' \\\ldots & \ldots & \ldots & \ldots \\y_1^{(n-1)} & y_2^{(n-1)} & \ldots & y_n^{(n-1)} \\\end{Vmatrix} = 0$
+Images_Matrices_Train_2014/6_em_9.png,$\begin{pmatrix}12-x  &4  \\8    &8-x\end{pmatrix}$
+Images_Matrices_Train_2014/7_em_31.png,$N=\begin{pmatrix}0  &0  \\1  &0\end{pmatrix}$
+Images_Matrices_Train_2014/60_gt_0.png,$ \begin {vmatrix} 1 & 2 & 3 \\ - 1 & - 2 & - 3 \\ 2 & 4 & 6 \end {vmatrix} $
+Images_Matrices_Train_2014/11_em_98.png,$\begin{vmatrix}3  &1  &1  \\-1  &0  &5  \\-1  &2  &-2 \end{vmatrix}$
+Images_Matrices_Train_2014/55_gt_3.png,$ A = \begin {pmatrix} 0 & 3 \\ - 3 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/35_gt_0.png,$ \begin {pmatrix} 1 / \sqrt {2} & - 1 / \sqrt {2} \\ - 1 / \sqrt {2} & - 1 / \sqrt {2} \end {pmatrix} $
+Images_Matrices_Train_2014/104_em_90.png,$\begin{pmatrix}1 & 0  \\0 & 0\end{pmatrix}\begin{pmatrix}0 & 1  \\0 & 0\end{pmatrix}\begin{pmatrix}0  &0  \\1 & 0\end{pmatrix}\begin{pmatrix}0 & 0  \\0 & 1\end{pmatrix} $
+Images_Matrices_Train_2014/6_em_23.png,$ \begin{pmatrix}2  &3  \\1  &1\end{pmatrix}  $
+Images_Matrices_Train_2014/35_gt_4.png,$ P ^ {- 1} \begin {pmatrix} 1 & 0 \\ 0 & 32 \end {pmatrix} P $
+Images_Matrices_Train_2014/104_em_94.png,$\begin{pmatrix}2\\0\\-1\end{pmatrix}$
+Images_Matrices_Train_2014/5_gt_2.png,$ A \begin {pmatrix} 2 & 1 \\ 1 & 1 \end {pmatrix} = \begin {pmatrix} 2 & 1 \\ 1 & 1 \end {pmatrix} \begin {pmatrix} 2 & 0 \\ 0 & 3 \end {pmatrix} $
+Images_Matrices_Train_2014/60_gt_4.png,$ \begin {pmatrix} 2 & 2 & - 1 \\ - 1 & - 1 & 1 \\ - 1 & - 2 & 2 \end {pmatrix} $
+Images_Matrices_Train_2014/7_em_35.png,"$ \left[ \begin{matrix}a_{1,1} b_{1,1} + a_{1,2} b_{2,1} & a_{1,1} b_{1,2} + a_{1,2} b_{2,2}  \\a_{2,1} b_{1,1} + a_{2,2} b_{2,1} & a_{2,1} b_{1,2} + a_{2,2} b_{2,2}  \end{matrix} \right]$"
+Images_Matrices_Train_2014/103_em_65.png,$   B=\begin{pmatrix}1  &-1 &3  \\1  &1  &-3 \\1  &0  &4\end{pmatrix}  $
+Images_Matrices_Train_2014/50_gt_3.png,$ \begin {pmatrix} 1 & 0 \\ 0 & 3 \end {pmatrix} \begin {pmatrix} 1 & 0 \\ - 1 & 1 \end {pmatrix} $
+Images_Matrices_Train_2014/11_em_85.png,$T=\begin{pmatrix}0  &-1  \\1  &1\end{pmatrix}$
+Images_Matrices_Train_2014/10_em_53.png,$H=\begin{pmatrix}1  &0   &1  \\0  &1   &0\end{pmatrix}$
+Images_Matrices_Train_2014/11_em_78.png,$\begin{pmatrix}1  &1  \\0  &4\end{pmatrix}^{-1}\begin{pmatrix}-2  &1  \\0  &2\end{pmatrix}\begin{pmatrix}1  &1  \\0  &4\end{pmatrix}^{-1}\begin{pmatrix}-2  &0  \\0  &2\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_0.png,$ \begin{pmatrix}5  &0  \\0  &4\end{pmatrix}  $
+Images_Matrices_Train_2014/101_em_15.png,$\begin{pmatrix}0  &1  &1  &0  &1  \\0  &0  &1  &1  &1  \\0  &0  &0  &0  &0  \\0  &0  &0  &0  &0  \\0  &0  &0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_36.png,$ \begin{pmatrix}0+0i  &0+0i  \\0+0i  &0+0i\end{pmatrix} $
+Images_Matrices_Train_2014/103_em_58.png,$ \begin{pmatrix}2   &1  &4  \\-1   &0  &2  \\1   &0  &1\end{pmatrix}  $
+Images_Matrices_Train_2014/101_em_2.png,$\begin{pmatrix}0  &1  &0  &0  \\1  &0  &0  &0  \\0  &0  &0  &1  \\0  &0  &1  &0            \end{pmatrix}$
+Images_Matrices_Train_2014/10_em_51.png,$ \begin{pmatrix}1  &0  &3  &1  &2  \\1  &4  &2  &1  &5  \\3  &4  &8  &1  &2\end{pmatrix}  $
+Images_Matrices_Train_2014/11_em_87.png,$\begin{pmatrix}0  &0  &0  \\1  &0  &0  \\0  &0  &0\end{pmatrix}$
+Images_Matrices_Train_2014/102_em_34.png,$\begin{pmatrix}\sqrt{3}/2  &-1/2       \\1/2         &\sqrt{3}/2\end{pmatrix}$
+Images_Matrices_Train_2014/101_em_17.png,$\begin{pmatrix}1  &3  &2  \\5  &1  &1  \\6  &4  &3\end{pmatrix}  $
+Images_Matrices_Train_2014/103_em_67.png,$\begin{pmatrix}4   &0  &1 \\-2  &1  &0  \\-2  &0  &1\end{pmatrix}$
+Images_Matrices_Train_2014/50_gt_1.png,$ \begin {pmatrix} 0 & 0 \\ 1 & 0 \end {pmatrix} $
+Images_Matrices_Train_2014/5_gt_0.png,"$ \begin {pmatrix} 21 \\ - 6 \\ - 7 \end {pmatrix}, \begin {pmatrix} 3 \\ - 2 \\ 3 \end {pmatrix}, \begin {pmatrix} 0 \\ 1 \\ 0 \end {pmatrix} $"
+Images_Matrices_Train_2014/55_gt_5.png,$ \frac {1} {2 x 5 - 3 x 3} \begin {pmatrix} 5 & - 3 \\ - 3 & 2 \end {pmatrix} \begin {pmatrix} 28 & 94 & 70 & 102 \\ 44 & 153 & 112 & 163 \end {pmatrix} $
+Images_Matrices_Train_2014/104_em_96.png,$ \begin{pmatrix}-1  &+1  \\0  &-3\end{pmatrix} $
+Images_Matrices_Train_2014/7_em_37.png,$\begin{pmatrix}-10  &4  \\-25  &10\end{pmatrix} $
+Images_Matrices_Train_2014/6_em_21.png,$\begin{pmatrix}2    &1   \\3    &1\end{pmatrix}    $

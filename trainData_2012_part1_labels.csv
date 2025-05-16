@@ -1,0 +1,631 @@
+image_path,latex
+Images_trainData_2012_part1/TrainData2_19_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_19_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_1_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_0_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_21_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_16_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_14_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_6_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_7_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_3_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_11_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_26_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_13_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_2_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_3_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_17_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_16_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_18_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_1_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_2_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_5_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_4_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_10_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_11_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_6_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_0_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_19_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_26_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_11_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_18_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_19_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_21_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_16_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_5_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_23_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_21_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_18_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_19_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_26_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_2_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData1_8_sub_19.png,x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+Images_trainData_2012_part1/TrainData2_20_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_21_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_1_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_20_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_17_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData1_8_sub_24.png,a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+Images_trainData_2012_part1/TrainData2_2_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_3_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_6_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_10_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_5_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_4_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_12_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_9_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_2_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_2_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_0_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_11_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_5_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_13_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_5_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_7_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_6_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_25_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_20_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_10_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_8_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_1_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_22_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_20_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_17_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_10_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_11_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_18_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_17_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_7_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_5_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_4_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_17_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_16_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_0_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_2_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d_{x}
+Images_trainData_2012_part1/TrainData2_3_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_17_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_20_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_24_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_10_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_26_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_18_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_19_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_18_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_25_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_18_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_16_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_10_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_12_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_6_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_7_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_14_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_17_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_20_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_15_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_1_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_0_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_4_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_6_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_6_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_4_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_3_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_1_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_3_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_23_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_16_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_21_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_9_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_0_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_24_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_26_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_11_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_7_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_20_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_21_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_3_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_18_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_19_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_26_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_4_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_5_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_4_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_5_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_7_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_7_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_11_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_26_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_2_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_3_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_0_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_16_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_21_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_6_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_7_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} a_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_4_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_11_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_6_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_24_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_13_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_12_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_1_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_0_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_9_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_16_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_23_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_14_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_15_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_23_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_22_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_1_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_9_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_20_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_8_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_24_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_25_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_6_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/vector01.png,$ A \cdot ( B + C ) = A \cdot B + A \cdot C $
+Images_trainData_2012_part1/TrainData2_9_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_21_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_23_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_23_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_9_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_26_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_24_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_24_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_5_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_6_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_4_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_10_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_11_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_1_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_3_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_20_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_17_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_16_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_12_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_17_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_10_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_15_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_12_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_15_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_17_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_15_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_0_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_20_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_21_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_16_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_7_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_26_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_18_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData1_8_sub_9.png,\sin^{2} \theta + \cos^{2} \theta = 1
+Images_trainData_2012_part1/TrainData2_26_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_11_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_9_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_20_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_8_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_23_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_22_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_15_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/vector03.png,$ A . B = ( A_{1} i + A_{2} j + A_{3} k ) . ( B_{1} i + B_{2} j + B_{3} k ) $
+Images_trainData_2012_part1/TrainData2_25_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_24_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_25_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_12_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_13_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_12_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_14_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_11_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_7_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_14_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_15_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_16_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_0_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_23_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_25_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_25_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_22_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_8_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_20_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_8_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_22_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_17_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_16_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_21_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_8_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_0_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_2_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_10_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_11_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_26_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_10_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_7_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_12_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_5_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_14_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_9_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_15_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_22_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_1_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_0_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_17_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_8_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_11_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_13_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_12_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_25_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_6_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_7_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_10_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_7_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_22_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_26_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_20_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_24_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_25_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_0_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_9_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_21_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_8_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_23_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_22_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_13_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_24_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_25_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_26_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_14_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_23_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_22_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_9_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_21_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_8_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_17_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_1_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_14_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_15_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_19_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_10_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_3_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_6_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_13_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_12_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_1_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_14_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_14_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData1_8_sub_21.png,A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+Images_trainData_2012_part1/TrainData2_18_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_16_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_13_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_0_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_13_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_11_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_19_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_10_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_26_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_6_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_17_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_20_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_21_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_1_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_5_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_7_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_18_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_12_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_24_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_13_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_2_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_9_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_0_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_15_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_23_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_14_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_22_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_20_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_8_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_20_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_25_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_6_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_4_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_21_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_9_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_20_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_2_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_23_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_18_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_7_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_26_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_5_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_24_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_4_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{3}{2} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_5_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_12_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_11_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_10_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_3_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_2_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_15_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_16_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_20_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_17_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_11_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_10_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_19_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_12_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_24_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_4_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_16_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_17_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_15_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_3_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_23_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_21_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_16_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_9_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_20_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_24_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_15_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_26_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_11_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_19_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_17_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_18_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_8_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_3_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_9_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_22_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_15_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_23_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_4_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_16_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_25_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_12_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_24_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_19_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_11_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_13_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_11_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_25_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_16_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_14_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_16_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData1_8_sub_12.png,e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+Images_trainData_2012_part1/TrainData2_4_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_25_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_12_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_19_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_10_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_26_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_3_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_22_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_21_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_8_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_8_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_20_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_16_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_21_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_17_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_3_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_2_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_14_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_21_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_11_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_26_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_10_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_4_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_5_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_13_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_15_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_22_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_14_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_8_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_3_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_1_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_12_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_25_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_13_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_19_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_20_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_4_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_22_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_6_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_26_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_13_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_24_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_26_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_21_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_9_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_23_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_21_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_1_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_18_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_25_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_13_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_24_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_5_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_3_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_22_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_19_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_14_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_23_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_8_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_2_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_9_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_17_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_17_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_15_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_10_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_10_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_12_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_14_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_2_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_16_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_17_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_13_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_5_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_11_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_10_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_18_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_26_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_10_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_19_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_18_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_25_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} + z_{2}
+Images_trainData_2012_part1/TrainData2_2_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_21_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_8_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_17_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_20_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_22_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_25_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_12_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_1_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_19_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_22_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_15_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_19_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_8_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_0_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_1_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_15_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_14_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_2_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_7_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_6_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_12_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_13_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_5_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_3_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_8_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_2_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_22_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_15_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_17_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_4_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_5_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_19_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_12_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_25_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_10_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_0_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_18_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_2_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_18_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_5_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_26_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_13_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_24_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_19_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_18_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_10_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_9_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_2_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_8_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_21_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_23_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_14_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_1_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_1_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_3_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_21_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_6_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_6_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_23_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_4_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_2_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_23_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_14_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_0_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_1_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_9_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_5_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_24_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_13_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_7_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_6_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_22_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_19_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_6_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_13_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_11_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_25_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_24_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_1_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_8_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_9_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_22_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_9_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_23_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_24_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_13_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_18_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_26_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_11_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_4_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_5_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_24_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_14_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_23_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_16_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_3_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_9_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_2_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_15_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_19_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_9_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData1_8_sub_28.png,\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+Images_trainData_2012_part1/TrainData2_14_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_23_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_14_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_18_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_13_sub_29.png,x^{i + 2 j \times k^{3} - \frac{j}{2 i}}
+Images_trainData_2012_part1/TrainData2_24_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_16_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_12_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_13_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_4_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_7_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_6_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_15_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_14_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_3_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData1_8_sub_15.png,F_{n} = F_{n - 1} + F_{n - 2}
+Images_trainData_2012_part1/TrainData2_0_sub_43.png,\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+Images_trainData_2012_part1/TrainData2_1_sub_61.png,\int \left( 2^{x} - 3 e^{x} \right) d x
+Images_trainData_2012_part1/TrainData2_7_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_6_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_4_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_12_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_25_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_0_sub_41.png,\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+Images_trainData_2012_part1/TrainData2_1_sub_63.png,\frac{1}{a} F \left( a x + b \right) + C
+Images_trainData_2012_part1/TrainData2_8_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_3_sub_15.png,\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+Images_trainData_2012_part1/TrainData2_15_sub_71.png,\frac{\sin B + \sin C}{\cos B + \cos C}
+Images_trainData_2012_part1/TrainData2_22_sub_29.png,x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+Images_trainData_2012_part1/TrainData2_22_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_23_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_0_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_8_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_9_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_25_sub_51.png,\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+Images_trainData_2012_part1/TrainData2_24_sub_73.png,\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+Images_trainData_2012_part1/TrainData2_7_sub_39.png,\sin x - \sin y - \sin \left( x - y \right)
+Images_trainData_2012_part1/TrainData2_18_sub_17.png,x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+Images_trainData_2012_part1/TrainData2_4_sub_6.png,x_{i} - x_{i + 1} + x_{i + 2}
+Images_trainData_2012_part1/TrainData2_20_sub_46.png,\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+Images_trainData_2012_part1/TrainData2_15_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_22_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_3_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_8_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_19_sub_11.png,\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+Images_trainData_2012_part1/TrainData2_7_sub_1.png,x_{1} + x_{2} = x_{3}
+Images_trainData_2012_part1/TrainData2_18_sub_33.png,\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+Images_trainData_2012_part1/TrainData2_25_sub_88.png,3 0 \times 2 9 x^{2 8}
+Images_trainData_2012_part1/TrainData2_12_sub_95.png,\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+Images_trainData_2012_part1/TrainData2_5_sub_9.png,\sqrt{b^{2} - 4 a c}
+Images_trainData_2012_part1/TrainData2_4_sub_49.png,1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+Images_trainData_2012_part1/TrainData2_7_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_5_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_7_sub_20.png,a + b + c + d + e
+Images_trainData_2012_part1/TrainData2_0_sub_98.png,\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+Images_trainData_2012_part1/TrainData2_2_sub_13.png,\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+Images_trainData_2012_part1/TrainData2_0_sub_20.png,a + b + c + d + e
